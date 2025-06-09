@@ -3,7 +3,7 @@ venv/
 .env/
 */venv/
 */.env/
-
+03-hello-world/.env
 # Ignore .env file in 02-vector-embeddings
 02-vector-embeddings/.env
 
