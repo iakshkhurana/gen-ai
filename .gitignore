@@ -4,6 +4,7 @@ venv/
 */venv/
 */.env/
 03-hello-world/.env
+04-agent/.env
 # Ignore .env file in 02-vector-embeddings
 02-vector-embeddings/.env
 
