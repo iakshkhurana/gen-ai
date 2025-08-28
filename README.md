@@ -14,3 +14,8 @@ Contains code for generative AI.
 
 *“Beyond Commands: The Psychology and Craft of Prompting AI”* — Explore powerful prompting styles like Zero-Shot, Few-Shot, Chain of Thought, and Persona-Based techniques to craft smarter AI interactions.
 
+## Important Points
+
+1. client -> client.chat.completions.create()
+client -> client.embeddings.create()
+model and prompt

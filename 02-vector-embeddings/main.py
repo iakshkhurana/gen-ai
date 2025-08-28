@@ -5,11 +5,10 @@ load_dotenv()
 
 client = OpenAI()
 
-text = "Dog chases chat"
-
 response = client.embeddings.create(
     model="text-embedding-3-small",
-    input=text
+    input="I am Cheetah"
 )
 
-print(response)
+print("Vector Embeddings : ", response)
+print("Length = ",response.data[0])
