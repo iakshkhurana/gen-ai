@@ -1,0 +1,22 @@
+{
+    "messages": [
+      {
+        "type": "HumanMessage",
+        "content": "damn",
+        "additional_kwargs": {},
+        "response_metasystem_fingerprint": null,
+        "id": "gen-1760337817-o639Gu3FqhsmvPXMubFR",
+        "service_tier": null,
+        "finish_reason": "stop",
+        "logprobs": null,
+        "run_id": "run--0ff880a8-c6a7-4112-815e-b3ff1a82f935-0",
+        "usage_metadata": {
+          "input_tokens": 9,
+          "output_tokens": 11,
+          "total_tokens": 20,
+          "input_token_details": {},
+          "output_token_details": {}
+        }
+      }
+    ]
+  }
